@@ -49,4 +49,4 @@ async def leave(ctx):
     await ctx.voice_client.disconnect()
 
 # Run the bot with your token
-bot.run('MTExOTAyNTkyODE2MTQ3NjY0OA.GJBn3f.AdAsjSedjt1Zuk7rrSgN3vx4YsHGVmCRgh2Arc')
+bot.run('ENTER YOUR TOKEN')
